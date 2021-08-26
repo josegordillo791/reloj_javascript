@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+.header 
+            {
+                font-family: 'Rampart One', cursive;
+                font-size: 50px;   
+                background-color:yellow;
+                border: 2px solid black;
+                border-bottom: none;
+            }
+.conteiner {
+                background-color:#fff;
+                color: black;
+                font-family: 'Rampart One', cursive;
+                font-size: 18px;
+}
+
+.widget{
+    border: 2px solid black;
+    background-color:yellow;
+}
